@@ -1,0 +1,87 @@
+
+    [{  
+        "No":1,
+        "name":"rice",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":30
+    },
+    {
+        "No":2,
+        "name":"wheat",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":40
+    },
+    {
+        "No":3,
+        "name":"rava",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":30
+    },
+    {
+        "No":4,
+        "name":"apple",
+        "category":"fruit",
+        "quantity":"1 kg",
+        "price":100
+    },
+    {
+        "No":5,
+        "name":"onion",
+        "category":"vegetable",
+        "quantity":"1 kg",
+        "price":80
+    },
+    {
+        "No":6,
+        "name":"sugar",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":40
+    },
+    {
+        "No":7,
+        "name":"orange",
+        "category":"fruit",
+        "quantity":"1 kg",
+        "price":50
+    },
+    {
+        "No":8,
+        "name":"tomato",
+        "category":"vegetable",
+        "quantity":"1 kg",
+        "price":60
+    },
+    {
+        "No":9,
+        "name":"salt",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":30
+    },
+    {
+        "No":10,
+        "name":"tea powder",
+        "category":"food",
+        "quantity":"1 kg",
+        "price":65
+    },
+    {
+        "No":11,
+        "name":"detergent",
+        "category":"cleaning",
+        "quantity":"1 kg",
+        "price":65
+    },
+    {
+        "No":12,
+        "name":"soap",
+        "category":"cleaning",
+        "quantity":"100 gm",
+        "price":30
+    }
+]
+   
